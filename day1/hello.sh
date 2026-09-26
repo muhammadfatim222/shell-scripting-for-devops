@@ -4,4 +4,4 @@ rm -r fatim
 mkdir fatim
 cd fatim
 touch fatimfile.txt
-echo "waw welcome back buddy">fatimfile.txt
+echo "waw welcome back buddy">fatimfile.txt   
